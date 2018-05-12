@@ -1,0 +1,61 @@
+_repo: The-Tale-of-the-Flopsy-Bunnies_14220
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Potter, Helen Beatrix
+    - Heelis, Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of The Flopsy Bunnies is a children's book written and illustrated\
+  \ by Beatrix Potter, and first published by Frederick Warne & Co. in July 1909.\
+  \ After two full-length tales about rabbits, Potter had grown weary of the subject\
+  \ and was reluctant to write another. She realized however that children most enjoyed\
+  \ her rabbit stories and pictures, and so reached back to characters and plot elements\
+  \ from The Tale of Peter Rabbit (1902) and The Tale of Benjamin Bunny (1904) to\
+  \ create The Flopsy Bunnies. A semi-formal garden of archways and flowerbeds in\
+  \ Wales at the home of her uncle and aunt became the background for the illustrations.\n\
+  In The Flopsy Bunnies, Benjamin Bunny and his cousin Flopsy are the parents of six\
+  \ young rabbits called simply The Flopsy Bunnies. The story concerns how the Flopsy\
+  \ Bunnies, while raiding a rubbish heap of rotting vegetables, fall asleep and are\
+  \ captured by Mr. McGregor who places them in a sack. While McGregor is distracted,\
+  \ the six are freed by Thomasina Tittlemouse, a woodmouse, and the sack filled with\
+  \ rotten vegetables by Benjamin and Flopsy. At home, Mr. McGregor proudly presents\
+  \ the sack to his wife, but receives a sharp scolding when she discovers its actual\
+  \ content.\nModern critical commentary varies. One critic points out that the faces\
+  \ of the rabbits are expressionless while another argues that the cock of an ear\
+  \ or the position of a tail conveys what the faces lack. One critic believes the\
+  \ tale lacks the vitality of The Tale of Peter Rabbit which sprang from a picture\
+  \ and story letter to a child. Most agree though that the depictions of the garden\
+  \ are exquisite and some of the finest illustrations Potter created.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14220'
+  wikidata: Q3062161
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Rabbits -- Juvenile fiction'
+- !lcsh 'Children''s stories, English'
+title: The Tale of the Flopsy Bunnies
+url: http://www.gutenberg.org/ebooks/14220
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Famille_Flopsaut
+- https://id.wikipedia.org/wiki/The_Tale_of_the_Flopsy_Bunnies
+- https://pt.wikipedia.org/wiki/The_Tale_of_the_Flopsy_Bunnies
+- https://en.wikisource.org/wiki/The_Tale_of_The_Flopsy_Bunnies
+- https://en.wikipedia.org/wiki/The_Tale_of_the_Flopsy_Bunnies
+- https://commons.wikimedia.org/wiki/Category:The_Tale_of_the_Flopsy_Bunnies
